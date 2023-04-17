@@ -1,0 +1,21 @@
+.LadoEsquerdo{
+    display: flex;
+    flex-direction: column;
+}
+.Logo{
+    margin: 20px 20px;
+}
+.Logo img{
+    height: 50px;
+    width: 50px;
+}
+.menu-principal{
+    display: flex;
+    flex-direction: column;
+    margin:20px 20px;
+}
+.menu-principal span{ 
+   font-size: 16px;
+   font-weight: bold;
+   margin: 10px 0;
+}

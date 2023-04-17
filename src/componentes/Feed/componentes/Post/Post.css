@@ -1,0 +1,36 @@
+.Post{
+
+    background: #FFFFFF;
+    border:1px solid #DDD;
+    border-radius: 20px;
+    width: 468px;
+    min-height: 518px;
+    margin: 12px 0 0 0;
+}
+.ConteudoPost{
+    background: #CACACA;
+    width: 468px;
+    height: 468px;
+
+}
+.ConteudoPost img {
+    width: 467px;
+    height: 466px;
+
+}
+.BarraSuperior{
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.ImagemPerfilAutor{
+    background: #CACACA;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+    margin:8px 8px 0 8px;
+}
+.ImagemPerfilAutor img{
+    width: 100%;
+    border-radius: 20px;
+}

@@ -1,0 +1,16 @@
+.Story{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+.Story .imgStory{
+    width: 60px;
+}
+.Story .imgStory img{
+    width:100%;
+    border-radius: 50px;
+}
+.Story .nomeStory{
+    text-align: center;
+    font-size: 11px;
+}
