@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ef2bd20.css",
+    "main.js": "/static/js/main.ba16a9cf.js",
+    "static/js/787.6ec3bbc8.chunk.js": "/static/js/787.6ec3bbc8.chunk.js",
+    "static/media/miles.jpg": "/static/media/miles.bab8c2213051cc163f7a.jpg",
+    "static/media/ciborg.png": "/static/media/ciborg.34f91cc92d0e87a40899.png",
+    "static/media/teentitans.png": "/static/media/teentitans.34b2d5a5d658d789e7cb.png",
+    "static/media/deadpool.png": "/static/media/deadpool.094dfc4f9b969084a8a5.png",
+    "static/media/robin.png": "/static/media/robin.1d52e4ec033e660ac28a.png",
+    "static/media/X-Men.jpg": "/static/media/X-Men.d5b4025134f3897be6bf.jpg",
+    "static/media/superchoque.jpg": "/static/media/superchoque.8ea3032f6f596b2e30cc.jpg",
+    "static/media/blue.jpg": "/static/media/blue.28ed047b573450d22cbf.jpg",
+    "static/media/Dead.jpg": "/static/media/Dead.ae2c2613abbbbf9dce89.jpg",
+    "static/media/static shock.jpg": "/static/media/static shock.b3f4c38777552155db70.jpg",
+    "static/media/miles morales.jpg": "/static/media/miles morales.475067423621c87f49fb.jpg",
+    "static/media/gwen.jpg": "/static/media/gwen.e71edbdfcfb01bb72b69.jpg",
+    "static/media/coringa.jpg": "/static/media/coringa.f2030016d5845a904892.jpg",
+    "static/media/mutano.jpg": "/static/media/mutano.f366e0fc1a3fc072c5a9.jpg",
+    "static/media/estelar.jpg": "/static/media/estelar.0413ae102d9718bcf17e.jpg",
+    "static/media/Rex Salazar.jpg": "/static/media/Rex Salazar.5e60551dc1b77440cc53.jpg",
+    "static/media/X-Men Symbol.jpg": "/static/media/X-Men Symbol.7171c1b093ad2156d404.jpg",
+    "index.html": "/index.html",
+    "main.6ef2bd20.css.map": "/static/css/main.6ef2bd20.css.map",
+    "main.ba16a9cf.js.map": "/static/js/main.ba16a9cf.js.map",
+    "787.6ec3bbc8.chunk.js.map": "/static/js/787.6ec3bbc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef2bd20.css",
+    "static/js/main.ba16a9cf.js"
+  ]
+}
