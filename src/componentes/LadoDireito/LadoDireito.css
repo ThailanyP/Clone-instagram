@@ -1,0 +1,70 @@
+.LadoDireito{
+    margin-top: 10px;
+
+}
+.meuPerfil .Perfil{
+    width: 50;
+    border-radius: 50px;
+    height: 65px;
+}
+.meuPerfil{
+    display: flex;
+}
+.meuPerfil p{
+    font-size: 15px;
+    margin: 14px;
+}
+.meuPerfil span{
+    margin: 7px;
+}
+.meuPerfil .mudar{
+    color: rgb(0, 132, 255);
+    margin: 14px;
+}
+
+
+.Sugestao{
+    margin-top: 10px;
+}
+.Sugestao .text{
+    display: flex;
+    margin: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.Sugestao .text1{
+    color:#9f9d9d;
+}
+.Sugestao .text2{
+    margin-left: 25%;
+}
+.Sugestao .Perfils{
+    width: 50;
+    border-radius: 50px;
+    height: 50px;
+    margin-top: 11px;
+}
+
+.Sugestao .info{
+ display: flex ;
+}
+
+.Sugestao .desc{
+    margin-top: 10px;
+    font-size: 14px;
+    margin: 14px;
+}
+.Sugestao .seguir{
+    color: rgb(0, 132, 255);
+    margin: 14px;
+    margin-left: 55%;
+}
+.Sugestao .desc2{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.Sugestao .descperfil{
+    display: flex;
+    flex-direction: column;
+}
