@@ -1,16 +1,21 @@
-.Story{
+.Story {
     display: flex;
     flex-direction: column;
     margin: 15px;
+    margin-right: 5px;
 }
-.Story .imgStory{
-    width: 60px;
+
+.Story .imgStory {
+    width: 50px;
 }
-.Story .imgStory img{
-    width:100%;
+
+.Story .imgStory img {
+    width: 100%;
     border-radius: 50px;
+    border: 3px solid salmon;
 }
-.Story .nomeStory{
+
+.Story .nomeStory {
     text-align: center;
     font-size: 11px;
 }
