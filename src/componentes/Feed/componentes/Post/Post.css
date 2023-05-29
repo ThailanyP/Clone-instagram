@@ -34,3 +34,27 @@
     width: 100%;
     border-radius: 20px;
 }
+.LegendaPost{
+    height: 50px;
+    margin: 15px;
+}
+.BarraPost{
+    display: flex;
+    height: 40px;
+    margin: 10px;
+}
+
+.itens > * {
+    margin-right: 5px;
+    font-size: 25px; 
+}
+.iten{
+    margin-left: 73%;
+    font-size: 25px; 
+}
+
+.comentarios p{
+    font-size: 12px;
+    margin: 15px;
+    color:#00000079;
+}
